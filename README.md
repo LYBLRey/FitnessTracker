@@ -1,16 +1,15 @@
 # Fitness Tracker
 
+This project lets you view create and track daily workouts. You are able to log multiple exercises in a workout on a given day. You will also able to track the name, type, weight, sets, reps, and duration of exercise. If the exercise is a cardio exercise, you will be able to track your distance traveled.
+
 ## Description
 
-Motivation for this project
+Motivation for this project to be able to route functionality and allow button clicks AND user input to be considered to then used for outputting information for the user.
+I built this project to be able to test whether or not user input could be taken and used logged with multiple input options.
+The problem that this project solves is now being able to neatly analyze your workouts (in terms of Resistance or Cardio workouts) and help you keep track of how well you are doing!
+I learned how to connect routes a bit better, handle event functions better, see how 'duration' is effective in tracking, and see how I could have a website keep track of an amount of something!
 
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
-
-## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
+## Table of Contents
 
 - [Installation](#installation)
 - [Usage](#usage)
@@ -27,15 +26,17 @@ If your README is long, add a table of contents to make it easy for users to fin
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+You will be asked to set workouts (one at a time), of Resistance or Cardio workouts!
+Once you input your workout information, you can click at the top right to check your Fitness Tracker which will then show you how well you are doing!
+
 ![Home](./public/images/1.png)
 
 ## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-If you followed tutorials, include links to those here as well.
+- https://medium.com/markdown-monster-blog/getting-images-into-markdown-documents-and-weblog-posts-with-markdown-monster-9ec6f353d8ec
+- https://expressjs.com/en/guide/routing.html
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function
+-
 
 ## License
 
@@ -60,7 +61,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-## Features
-
-If your project has a lot of features, list them here.
