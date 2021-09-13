@@ -29,6 +29,8 @@ I learned how to connect routes a bit better, handle event functions better, see
 You will be asked to set workouts (one at a time), of Resistance or Cardio workouts!
 Once you input your workout information, you can click at the top right to check your Fitness Tracker which will then show you how well you are doing!
 
+DEPLOYED LINK: https://immense-falls-05530.herokuapp.com/
+
 ![Home](./public/images/1.png)
 
 ## Credits
